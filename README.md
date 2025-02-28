@@ -21,9 +21,7 @@ This project is a simple ATM Simulation System built using Java. It mimics basic
 Java (Core Java, OOPs, Exception Handling)
 
 IDE: Visual Studio Code / IntelliJ IDEA / Eclipse 
-📷 Demo
 
-(Add screenshots or a short video demo here)
 
 🔗 Contributing
 
